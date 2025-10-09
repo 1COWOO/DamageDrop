@@ -24,7 +24,7 @@ cd build/libs (자동 실행이 안될수있으니 따로 복사해두세요)
 ### 주의점 
 유튜브 같은 플랫폼에서 사용할시 이 깃허브 링크 혹은 [유튜브 채널](https://youtube.com/@KOWOO코우)을 영상 설명창에 써주세요.
 
-## 라이센스
+### 라이센스
 
 이 프로젝트는 [GNU General Public License v3.0(GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html) 라이센스 하에 배포됩니다. 이 라이센스는 다음과 같은 권리를 허용합니다:
 
