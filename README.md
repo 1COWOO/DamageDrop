@@ -7,7 +7,7 @@
 
 ### 적용법
 
-[Releases](https://github.com/1cowoo/DamageDrop/releases) 페이지에서 최신 버전 플러그인을 받고서 서버의 plugins 폴더에 옮기고 서버를 재시작 합니다.
+[Releases](https://github.com/1cowoo/DamageDrop/releases) 페이지에서 최신 버전 플러그인을 받고서 서버의 `plugins/` 폴더에 옮기고 서버를 재시작 합니다.
 
 
 ### 수정하고 싶은 분들이 참고해야 할 점
