@@ -1,4 +1,4 @@
-package net.kowoo.damageDrop;
+package io.github._1cowoo.damagedrop;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
